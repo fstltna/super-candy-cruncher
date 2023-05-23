@@ -1,0 +1,31 @@
+[Folders]
+Dir1=c:\My Games\Super Candy Cruncher\
+[TotalChanges]
+Folders=1
+RegKeys=10
+Files=13
+[RegKeys]
+Reg1=-2147483648\SOFTWARE\RealNetworks\Update\6.0\Preferences\Components\74cf5b40:1.0
+Reg2=-2147483648\SOFTWARE\RealNetworks\Update\6.0\Preferences\Components\74cf5b40:1.0\Uninstall
+Reg3=-2147483648\SOFTWARE\RealNetworks\Update\6.0\Preferences\Components\74cf5b40:1.0\Product0
+Reg4=-2147483648\SOFTWARE\RealNetworks\Update\6.0\Preferences\Components\74cf5b40:1.0\DisplayName
+Reg5=-2147483648\SOFTWARE\RealNetworks\Update\6.0\Preferences\Components\74cf5b40:1.0\DisplayName
+Reg6=-2147483648\SOFTWARE\RealNetworks\Update\6.0\Preferences\Components\74cf5b40:1.0\Product1
+Reg7=-2147483648\SOFTWARE\RealNetworks\Games\Candy Cruncher.74cf5b40
+Reg8=-2147483648\SOFTWARE\RealNetworks\Games\Candy Cruncher.74cf5b40\1.0
+Reg9=-2147483648\SOFTWARE\RealNetworks\Games\Candy Cruncher.74cf5b40\1.0\Executable
+Reg10=-2147483648\SOFTWARE\RealNetworks\Games\Candy Cruncher.74cf5b40\1.0\InstallPath
+[Files]
+File1=c:\My Games\Super Candy Cruncher\candy.txt
+File2=c:\My Games\Super Candy Cruncher\cruncher.exe
+File3=c:\My Games\Super Candy Cruncher\cruncher.pyz
+File4=c:\My Games\Super Candy Cruncher\generic.spc
+File5=c:\My Games\Super Candy Cruncher\launch.ini
+File6=c:\My Games\Super Candy Cruncher\license.txt
+File7=c:\My Games\Super Candy Cruncher\readme.txt
+File8=c:\My Games\Super Candy Cruncher\regid.exe
+File9=c:\My Games\Super Candy Cruncher\setup.ini
+File10=c:\My Games\Super Candy Cruncher\upsell.bmp
+File11=c:\My Games\Super Candy Cruncher\version.txt
+File12=c:\My Games\Super Candy Cruncher\Setup.ini
+File13=C:\Documents and Settings\Administrator\Start Menu\Programs\Real\Games\Candy Cruncher.lnk
